@@ -1,0 +1,12 @@
+07 Juin
+Le stage commence. J'ai rencontré Axelle Prouvot, qui m'a d'abord présenté toute l'équipe de l'office. Elle m'a ensuite présenter le travail que j'avais à faire.
+J'ai alors commencé à lire les travaux précédent afin de comprendre ce qui m'attendais. J'ai ensuite établi quelques plans de départ pour clarifier les choses.
+Enfin, j'ai codé une petite interface comme menu du logiciel que j'aurais à fournir.
+Tout au long de la journée, je suis allé poser des questions à Axelle pour clarifier et comprendre certaines choses.
+
+08 Juin
+Je continue mon travail. Je developpe l'application et je commence la partie Inventaire En Plein.
+J'ai réussi à importer un fichier xls sur l'application et à le charger dans une Structure de données.
+Axelle m'a montré ce que je devais avoir à la fin si possible. Je ne sais pas si je réussirai à faire tout ça.
+Pour l'instant, je me concentre seulement sur la remise en place de l'application, par rapport aux macros excels qui ne fonctionnent plus.
+
